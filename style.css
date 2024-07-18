@@ -226,16 +226,7 @@ text-align: left;
     height:600px;
     width: 200px;
 }
-.services-box .btn{
-  position: absolute;
-  bottom: 15px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-left: 100px;
- 
-   
-}
+
 
 .services-box i{
     font-size: 7rem;
